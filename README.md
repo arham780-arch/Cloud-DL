@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="CloudDL logo: a white cloud with a yellow lightning bolt on a black background, with the text 'CloudDL' underneath" width="220" />
-</p>
 
 # Cloud-DL
 
